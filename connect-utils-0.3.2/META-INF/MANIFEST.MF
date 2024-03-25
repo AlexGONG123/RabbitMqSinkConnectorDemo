@@ -1,0 +1,13 @@
+Manifest-Version: 1.0
+Implementation-Title: connect-utils
+Implementation-Version: 0.3.2
+Built-By: jenkins
+Specification-Vendor: Confluent, Inc.
+Specification-Title: connect-utils
+Implementation-Vendor-Id: io.confluent
+Created-By: Apache Maven 3.5.2
+Build-Jdk: 1.8.0_202
+Specification-Version: 0.3
+Implementation-URL: https://github.com/confluentinc/connect-utils
+Implementation-Vendor: Confluent, Inc.
+
